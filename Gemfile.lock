@@ -16,6 +16,7 @@ GEM
     colorator (1.1.0)
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
+
     concurrent-ruby (1.1.7)
     dnsruby (1.61.4)
       simpleidn (~> 0.1)
@@ -33,11 +34,13 @@ GEM
     gemoji (3.0.1)
     github-pages (207)
       github-pages-health-check (= 1.16.1)
+
       jekyll (= 3.9.0)
       jekyll-avatar (= 0.7.0)
       jekyll-coffeescript (= 1.1.1)
       jekyll-commonmark-ghpages (= 0.1.6)
       jekyll-default-layout (= 0.1.4)
+
       jekyll-feed (= 0.13.0)
       jekyll-gist (= 1.5.0)
       jekyll-github-metadata (= 2.13.0)
@@ -55,7 +58,7 @@ GEM
       jekyll-theme-architect (= 0.1.1)
       jekyll-theme-cayman (= 0.1.1)
       jekyll-theme-dinky (= 0.1.1)
-      jekyll-theme-hacker (= 0.1.1)
+      jekyll-theme-hacker (= 0.1.2)
       jekyll-theme-leap-day (= 0.1.1)
       jekyll-theme-merlot (= 0.1.1)
       jekyll-theme-midnight (= 0.1.1)
@@ -66,8 +69,10 @@ GEM
       jekyll-theme-tactile (= 0.1.1)
       jekyll-theme-time-machine (= 0.1.1)
       jekyll-titles-from-headings (= 0.5.3)
+
       jemoji (= 0.11.1)
       kramdown (= 2.3.0)
+
       kramdown-parser-gfm (= 1.1.0)
       liquid (= 4.0.3)
       mercenary (~> 0.3)
@@ -161,8 +166,8 @@ GEM
     jekyll-theme-dinky (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
-    jekyll-theme-hacker (0.1.1)
-      jekyll (~> 3.5)
+    jekyll-theme-hacker (0.1.2)
+      jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
     jekyll-theme-leap-day (0.1.1)
       jekyll (~> 3.5)
